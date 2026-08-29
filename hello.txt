@@ -1,5 +1,6 @@
-Hello Git, this is my first git training practice
+Hello Git, this is the CONFLICT-DEMO version of the line.
 
 this is the second test update.
 
 this is a new branch (feature branch)
+
