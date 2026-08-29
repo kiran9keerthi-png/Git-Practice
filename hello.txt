@@ -1,4 +1,4 @@
-Hello Git, this is my first git training practice
+Hello Git, this is the MASTER version of the line.
 
 this is the second test update.
 
