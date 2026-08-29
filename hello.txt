@@ -1,5 +1,6 @@
-Hello Git, this is the MASTER version of the line.
+Hello Git, this is the RESOLVED version after merging both branches.
 
 this is the second test update.
 
 this is a new branch (feature branch)
+
