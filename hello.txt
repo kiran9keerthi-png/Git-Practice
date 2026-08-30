@@ -5,4 +5,3 @@ this is the second test update.
 this is a new branch (feature branch)
 this text is added directly on Github for testing
 
-THIS IS A MISTAKE LINE THAT SHOULD NOT BE HERE.
